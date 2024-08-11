@@ -54,7 +54,3 @@ A classic Pong game featuring both AI and multiplayer modes. Developed in C++ fr
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust any details as needed for your specific project setup!
