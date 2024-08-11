@@ -1,4 +1,3 @@
-Here's a comprehensive `README.md` file for your Pong game project, including setup instructions for Visual Studio:
 
 ---
 
